@@ -33,8 +33,8 @@
 <p>
   Node.js 🟢 ▰▰▰▱▱▱▱▱▱▱ 30%<br>
   Java ☕ ▰▰▰▰▰▰▰▱▱▱ 70%<br>
-  Spring Boot 🌱 ▰▰▰▰▰▱▱▱▱▱ 60%<br>
-  Python 🐍 ▰▰▰▰▰▰▱▱▱▱ 70%<br>
+  Spring Boot 🌱 ▰▰▰▰▰▱▱▱▱▱ 50%<br>
+  Python 🐍 ▰▰▰▰▰▰▱▱▱▱ 60%<br>
   Django 🌿 ▰▰▰▰▱▱▱▱▱▱ 40%
 </p>
 
@@ -42,8 +42,8 @@
 
 ### 🗄️ Databases
 <p>
-  PostgreSQL 🐘 ▰▰▰▰▰▰▰▱▱▱ 75%<br>
-  MySQL 🐬 ▰▰▰▰▰▰▰▱▱▱ 75%<br>
+  PostgreSQL 🐘 ▰▰▰▰▰▰▰▱▱▱ 70%<br>
+  MySQL 🐬 ▰▰▰▰▰▰▰▱▱▱ 70%<br>
   MongoDB 🍃 ▰▰▰▰▰▱▱▱▱▱ 50%<br>
   Redis 🔴 ▰▰▰▰▰▱▱▱▱▱ 50%
 </p>
@@ -53,8 +53,8 @@
 ### ☁️ DevOps & Tools
 <p>
   Git & GitHub 🐙 ▰▰▰▰▰▰▰▰▱▱ 80%<br>
-  Docker 🐳 ▰▰▰▰▰▱▱▱▱▱ 60%<br>
-  Linux 🐧 ▰▰▰▰▰▱▱▱▱▱ 60%<br>
+  Docker 🐳 ▰▰▰▰▰▱▱▱▱▱ 50%<br>
+  Linux 🐧 ▰▰▰▰▰▱▱▱▱▱ 50%<br>
   Nginx 🌐 ▰▰▰▱▱▱▱▱▱▱ 30%<br>
   Postman 📮 ▰▰▰▰▰▱▱▱▱▱ 50%
 </p>
