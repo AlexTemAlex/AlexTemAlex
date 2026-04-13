@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Alexis
 
-<h3 align="center">
-  💻 Future Full Stack Developer | 🚀 Always learning
-</h3>
+<h3 align="center">🚀 Future Full Stack Developer | Constantly learning</h3>
+<p align="center">💻 Information Systems Engineering Student</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Java;Building+real-world+systems;Always+learning+new+technologies&center=true&width=500&height=45">
@@ -17,47 +16,61 @@
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies (Full Stack)
 
 ### 🎨 Frontend
-React ⚛️ ▰▰▱▱▱▱▱▱▱▱ 20%  
-HTML 🧱 ▰▰▰▰▱▱▱▱▱▱ 40%  
-CSS 🎨 ▰▰▰▰▱▱▱▱▱▱ 40%  
-JavaScript 🟨 ▰▰▰▰▱▱▱▱▱▱ 40%  
-Bootstrap 🅱️ ▰▰▰▱▱▱▱▱▱▱ 30%  
+<p>
+  React ⚛️ ▰▰▱▱▱▱▱▱▱▱ 20%<br>
+  HTML 🧱 ▰▰▰▰▱▱▱▱▱▱ 40%<br>
+  CSS 🎨 ▰▰▰▰▱▱▱▱▱▱ 40%<br>
+  JavaScript 🟨 ▰▰▰▰▱▱▱▱▱▱ 40%<br>
+  Bootstrap 🅱️ ▰▰▰▱▱▱▱▱▱▱ 30%
+</p>
 
 ---
 
 ### ⚙️ Backend
-Node.js 🟢 ▰▰▰▱▱▱▱▱▱▱ 30%  
-Java ☕ ▰▰▰▰▰▰▰▱▱▱ 70%  
-Spring Boot 🌱 ▰▰▰▰▰▱▱▱▱▱ 60%  
-Python 🐍 ▰▰▰▰▰▰▱▱▱▱ 70%  
-Django 🌿 ▰▰▰▰▱▱▱▱▱▱ 40%  
+<p>
+  Node.js 🟢 ▰▰▰▱▱▱▱▱▱▱ 30%<br>
+  Java ☕ ▰▰▰▰▰▰▰▱▱▱ 70%<br>
+  Spring Boot 🌱 ▰▰▰▰▰▱▱▱▱▱ 60%<br>
+  Python 🐍 ▰▰▰▰▰▰▱▱▱▱ 70%<br>
+  Django 🌿 ▰▰▰▰▱▱▱▱▱▱ 40%
+</p>
 
 ---
 
 ### 🗄️ Databases
-PostgreSQL 🐘 ▰▰▰▰▰▰▰▱▱▱ 75%  
-MySQL 🐬 ▰▰▰▰▰▰▰▱▱▱ 75%  
-MongoDB 🍃 ▰▰▰▰▰▱▱▱▱▱ 50%  
-Redis 🔴 ▰▰▰▰▰▱▱▱▱▱ 50%  
+<p>
+  PostgreSQL 🐘 ▰▰▰▰▰▰▰▱▱▱ 75%<br>
+  MySQL 🐬 ▰▰▰▰▰▰▰▱▱▱ 75%<br>
+  MongoDB 🍃 ▰▰▰▰▰▱▱▱▱▱ 50%<br>
+  Redis 🔴 ▰▰▰▰▰▱▱▱▱▱ 50%
+</p>
 
 ---
 
 ### ☁️ DevOps & Tools
-Git & GitHub 🐙 ▰▰▰▰▰▰▰▰▱▱ 80%  
-Docker 🐳 ▰▰▰▰▰▱▱▱▱▱ 60%  
-Linux 🐧 ▰▰▰▰▰▱▱▱▱▱ 60%  
-Nginx 🌐 ▰▰▰▱▱▱▱▱▱▱ 30%  
-Postman 📮 ▰▰▰▰▰▱▱▱▱▱ 50%  
+<p>
+  Git & GitHub 🐙 ▰▰▰▰▰▰▰▰▱▱ 80%<br>
+  Docker 🐳 ▰▰▰▰▰▱▱▱▱▱ 60%<br>
+  Linux 🐧 ▰▰▰▰▰▱▱▱▱▱ 60%<br>
+  Nginx 🌐 ▰▰▰▱▱▱▱▱▱▱ 30%<br>
+  Postman 📮 ▰▰▰▰▰▱▱▱▱▱ 50%
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AlexTemAlex&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexTemAlex&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTemAlex&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTemAlex&layout=compact&theme=tokyonight)
+## 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexTemAlex&theme=tokyo-night" />
+</p>
